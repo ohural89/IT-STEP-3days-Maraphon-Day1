@@ -1,0 +1,65 @@
+/* Main page "Olena Hural card" section */
+    body {
+        background-color: rgb(171, 187, 127);
+    }
+
+    h1 {
+        color: rgb(94, 161, 16);
+        background-color: rgb(229, 240, 170);
+        text-align: center;
+    }
+
+    h2{
+        color: rgb(228, 122, 108);
+        background-color: rgb(198, 207, 67);
+        text-align: center;
+    }
+
+    .About_me {
+        font-style: italic;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .Pray_for_future_title {
+        font-style: inherit;
+        font-weight: bold;
+        font-size: 18px;
+        font-weight: normal;
+        text-align: center;
+        color: rgb(105, 43, 137);
+    }
+
+    .box_with_pray {
+        background-color: cadetblue;
+        width: 690px;
+        margin: auto;
+}
+    .Pray_for_future_text {
+     
+        color: rgb(105, 43, 137);
+    }
+
+/* First page "Some kind of phylosophy" section */
+    .body_Backgrouns_image_Clouds {
+        background-image: url(../images/Natur\ \(27\).JPG);
+        background-size: 100%;
+    }
+
+    .body_Some_kind_of_phylosophy_text {
+        font-style: italic;
+    }
+
+    .link_font_style {
+        color: rgb(7, 113, 7);
+    }
+
+/* Second page "Mountains' road" section */
+    .body_Mountains_road {
+
+    }
+
+/* Third page "Seasons" section */
+    .body_Seasons {
+
+    }
